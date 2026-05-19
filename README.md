@@ -4,7 +4,7 @@ An end-to-end wildlife camera trap classifier for New Zealand conservation.
 
 ## Overview
 
-Binary image classification system that distinguishes **mammals** (invasive predators — positive class) from **birds** (native species — negative class) using camera trap imagery. Built as part of a Masters of AI thesis at Victoria University of Wellington (Te Herenga Waka).
+Binary image classification system that distinguishes **mammals** (invasive predators — positive class) from **birds** (native species — negative class) using camera trap imagery. Built as part of a Masters of AI project at Victoria University of Wellington (Te Herenga Waka).
 
 **Dataset**: Trail Camera Images of New Zealand Animals (LILA Science) — 4,648 images, 40+ species.
 
@@ -18,5 +18,5 @@ Planning phase — implementation begins June 2026.
 
 ## Author
 
-Qaswar Almousa — Masters of Artificial Intelligence, VUW  
-Supervised by Andrew Lensen
+Qaswar Almousa — Masters of Artificial Intelligence, 
+
